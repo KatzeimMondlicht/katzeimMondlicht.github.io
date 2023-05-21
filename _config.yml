@@ -9,7 +9,6 @@ paginate: 10
 paginate_path: /page/:num/
 permalink: /:title/
 
-<<<<<<< HEAD
+
 remote_theme:sweet 16
 =======
->>>>>>> d3644fb8252faac9b0072aa3f831ccbce5b15197
