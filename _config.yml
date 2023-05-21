@@ -1,11 +1,12 @@
 plugins:
-  - jekyll-paginate
 
-title: Sweet 16
-description:
-    <a href="https://wordpress.org/themes/twentysixteen/" rel="external">Wordpress 2016 theme</a>
-    in <a href="https://jekyllrb.com/" rel="external">Jekyll</a>
+
+title: 竹笋
+description:定福庄
+
 
 paginate: 10
 paginate_path: /page/:num/
 permalink: /:title/
+
+remote_theme: sighingnow/jekyll-gitbook
