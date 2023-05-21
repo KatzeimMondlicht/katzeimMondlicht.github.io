@@ -1,6 +1,6 @@
 name: 竹笋
 permalink: :year/:month/:day/:title
-baseurl: https://katzeimmondlicht.github.io/
+baseurl:/katzeimmondlicht.github.io/
 
 # Your blog's start year and this year, showed in the footer left
 # start is optional
