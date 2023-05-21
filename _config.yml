@@ -9,4 +9,4 @@ paginate: 10
 paginate_path: /page/:num/
 permalink: /:title/
 
-theme:Sweet 16
+remote_theme:sweet 16
