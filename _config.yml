@@ -9,4 +9,4 @@ paginate: 10
 paginate_path: /page/:num/
 permalink: /:title/
 
-remote_theme: sighingnow/jekyll-sweet16
+remote_theme: sighingnow/jekyll-jekyll-paginate
