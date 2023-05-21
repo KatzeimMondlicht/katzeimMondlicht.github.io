@@ -28,4 +28,20 @@ sass:
   style: compressed
 
 plugins:
+<<<<<<< HEAD
 - jekyll-feed
+=======
+  - jekyll-paginate
+
+title: 竹笋
+description:
+    growing in nights.
+
+paginate: 10
+paginate_path: /page/:num/
+permalink: /:title/
+
+
+remote_theme:sweet-16
+=======
+>>>>>>> dd0edd35028579539bbb96524ae4d12739106a91
