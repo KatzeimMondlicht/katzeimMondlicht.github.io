@@ -3,7 +3,7 @@ plugins:
 
 title: 竹笋
 description:
-    无语了 到底怎么才能用上我的个人博客
+    （双手合十）
 
 paginate: 10
 paginate_path: /page/:num/
