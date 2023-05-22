@@ -10,4 +10,4 @@ paginate: 10
 paginate_path: /page/:num/
 permalink: /:title/
 
-baseurl: "https://katzeimmondlicht.github.io/"
+
