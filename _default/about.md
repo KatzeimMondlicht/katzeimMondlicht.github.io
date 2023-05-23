@@ -7,3 +7,5 @@ title: About
 <h1>About</h1>
 实习二阳请假期间摸鱼作品
 2023.5.22
+
+感谢不懈为我解答问题的ChatGPT
