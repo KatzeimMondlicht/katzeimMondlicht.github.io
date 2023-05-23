@@ -5,6 +5,11 @@ layout: default
 
 <article class="post {{ page.class }}">
 	<header><h1>{{ page.title }}</h1></header>
+
+	{% comment %}
+	下面插入了统计板块
+	{% endcomment %}
+
 	<!-- Google tag (gtag.js) -->
 		<script async src="https://www.googletagmanager.com/gtag/js?id=G-HHP1GPRCRB"></script>
 		<script>
@@ -18,7 +23,7 @@ layout: default
 	{% comment %}
 	下面插入了评论板块
 	{% endcomment %}
-	
+
 	<div class="content">
 		{{ content }}
 		<footer>
