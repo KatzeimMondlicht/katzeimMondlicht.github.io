@@ -53,6 +53,28 @@
 	</header>
 	<main>{{ content }}</main>
 	<aside>
+
+	{% comment %}
+	下面调整边栏顺序
+	{% endcomment %}
+
+		<section>
+			<h2>Recent posts</h2>
+			<ul>
+				{% for post in site.posts limit: 5 %}
+					<li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+				{% endfor %}
+			</ul>
+		</section>
+		
+		<section class="tagcloud">
+			<h2>Tags</h2>
+			{% assign tags = site.tags | sort %}
+			{% for tag in tags %}
+				<a href="{{ site.baseurl }}/tag/{{ tag[0] | slugify | uri_escape }}">{{ tag[0] }}</a>
+			{% endfor %}
+		</section>
+		
 		<section>
 			<h2>Categories</h2>
 			<ul>
@@ -62,21 +84,7 @@
 				{% endfor %}
 			</ul>
 		</section>
-		<section class="tagcloud">
-			<h2>Tags</h2>
-			{% assign tags = site.tags | sort %}
-			{% for tag in tags %}
-				<a href="{{ site.baseurl }}/tag/{{ tag[0] | slugify | uri_escape }}">{{ tag[0] }}</a>
-			{% endfor %}
-		</section>
-		<section>
-			<h2>Recent posts</h2>
-			<ul>
-				{% for post in site.posts limit: 5 %}
-					<li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
-				{% endfor %}
-			</ul>
-		</section>
+
 	</aside>
 	<footer>
 		{% include navigation.liquid %}
