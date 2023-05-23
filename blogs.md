@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Recent Posts
+title: Blogs
 ---
-<h1>Recent Posts</h1>
+<h1>Blogs</h1>
 
 <ol>
   {% for post in site.posts %}
