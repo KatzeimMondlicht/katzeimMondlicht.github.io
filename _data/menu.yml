@@ -2,7 +2,7 @@
   href: /
 
 - title: About
-  href: /README
+  href: /README # 需要区分大小写
 
 - title: Recent Posts
-  href: /recent-posts
+  href: /recent-posts # 转接recent-post.md文件
