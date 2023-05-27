@@ -12,5 +12,3 @@ tags: [日记,实习,流水账,影像]
 4. ￥59 爱、死亡与后人类学（吴冠军） 
 
 <!--呜呜不能用qq空间当图床-->
-
-![](https://wx4.sinaimg.cn/mw2000/006avA7Rly1hdzg35emhcj32c02c07wj.jpg)
