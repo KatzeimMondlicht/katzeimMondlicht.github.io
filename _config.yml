@@ -7,3 +7,8 @@ description: (双手合十)
 paginate: 10
 paginate_path: /page/:num/
 permalink: /:title/
+
+collections:
+  tags:
+    output: true
+    permalink: /tag/:name/
