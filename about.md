@@ -5,7 +5,7 @@ title: About
 
 <!--意识到md文档都需要一个前言，而且注释的方法也不一样-->
 <h1>About</h1>
-<!--意识到是font 而不是front……-->
+<!--意识到是font 而不是front……但是难道只能加一个属性吗？-->
 <html>
 
 <font color=#63E58A>
