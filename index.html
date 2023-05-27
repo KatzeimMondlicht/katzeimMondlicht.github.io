@@ -68,3 +68,12 @@ layout: default
 {% comment %}
 vim: filetype=liquid
 {% endcomment %}
+
+{% for tag in site.tags %}
+ <h2>{{ tag[0] }}</h2>
+ <>
+   {% for post in tag[1] %}
+     <li>< href="{{ post.url }}">{{ post.title }}</a></li>
+   {% endfor %}
+ </ul>
+{% endfor %}
