@@ -2,7 +2,7 @@
 layout: post
 title:  "朝阳区图书馆翻书记录"
 category: "日记"
-tags: [日记,实习,流水账,影像]
+tags: [日记,实习,流水账,影像,更新]
 ---
 
 ![《缺席的城市》](/asset/缺席的城市.jpg)
