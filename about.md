@@ -7,7 +7,7 @@ title: About
 <h1>About</h1>
 <!--意识到是font 而不是front……但是难道只能加一个属性吗？-->
 
-<font color=#63E58A>
+<font color="#63E58A">
 
 种豆南山下，草盛豆苗稀。
 
