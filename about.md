@@ -7,7 +7,7 @@ title: About
 <h1>About</h1>
 <!--意识到是font 而不是front……-->
 <html>
-<font face="仿宋">
+
 <font color=#63E58A>
 种豆南山下，草盛豆苗稀。</br>
 晨兴理荒秽，带月荷锄归。</br>
