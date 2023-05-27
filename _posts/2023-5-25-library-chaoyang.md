@@ -13,3 +13,5 @@ tags: [日记,实习,流水账,影像]
 
 ![](http://m.qpic.cn/psc?/V53GIl8f3751DN3c9Llk18DASo01Qwrs/bqQfVz5yrrGYSXMvKr.cqUbB1WAinHv1oxblZxIyxb98xsZVt8fCzXS*gl22oYoPed0TBmSPAkOSsB8qgFV15khPacQoCI.sxYkQC2wyPGA!/b&bo=QAZABtAL0AsBNxA!&rf=viewer_4)
 3. 遮蔽的真实（装帧超级好 全彩+有很多可展开内页）
+
+<!--呜呜不能用qq空间-->
