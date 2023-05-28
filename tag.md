@@ -8,7 +8,7 @@ layout: default
 {% for post in site.posts %}
   {% if post.tags contains page.tags %}
     <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
+      <a href="{{ site.baseurl }}{{ post.url }}"> {{ post.title }}</a>
     </li>
   {% endif %}
 {% endfor %}
