@@ -1,6 +1,8 @@
-- name: A6活页本
-  slug: A6活页本
-- name: Feel-the-rain
+- name: 1
   slug: feel-the-rain
-- name: 标签3
-  slug: tag3
+- name: 2
+  slug: 2
+- name: 3
+  slug: 3
+
+  不行啊这个 生成的是/tag界面的内容
