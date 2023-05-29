@@ -2,14 +2,17 @@
 layout: default
 ---
 <!--不行啊这个标签页就直接生成到tag这个页面本身了，没有出现那种对应具体tag页面的列表呜呜，难道要一个一个单独建立吗？-->
-<h1>Tag: {{ post.tage }}</h1>
+
+
+
+<h1>{{ page.tag }}</h1>
 
 <ul>
-{% for post in site.posts %}
-  {% if post.tags contains post.tage %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
-  {% endif %}
+{% for tag in site.data.tags %}
+  <li>
+    <a href="{{ site.baseurl }}/tag/{{ tag.slug }}">
+      {{ tag.name }}
+    </a>
+  </li>
 {% endfor %}
 </ul>
