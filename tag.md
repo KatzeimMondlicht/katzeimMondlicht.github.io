@@ -2,13 +2,13 @@
 layout: default
 ---
 
-<h1>{{ page.tags }}</h1>
+<h1>Tag: {{ A6活页本 }}</h1>
 
 <ul>
 {% for post in site.posts %}
-  {% if post.tags contains page.tags %}
+  {% if post.tags contains A6活页本 %}
     <li>
-      <a href="{{ site.baseurl }}{{ post.url }}"> {{ post.title }}</a>
+      <a href="{{ post.url }}">{{ post.title }}</a>
     </li>
   {% endif %}
 {% endfor %}
