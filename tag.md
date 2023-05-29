@@ -2,11 +2,11 @@
 layout: default
 ---
 
-<h1>Tag: {{ A6活页本 }}</h1>
+<h1>Tag: {{ feel-the-rain }}</h1>
 
 <ul>
 {% for post in site.posts %}
-  {% if post.tags contains A6活页本 %}
+  {% if post.tags contains feel-the-rain %}
     <li>
       <a href="{{ post.url }}">{{ post.title }}</a>
     </li>
