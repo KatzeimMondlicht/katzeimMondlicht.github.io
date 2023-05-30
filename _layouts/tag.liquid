@@ -6,8 +6,8 @@ layout: default
 	哦 这是生成模式 页面的基础
 	{% endcomment %}
 
-<h1>Tag: {{ page.title }} 2</h1>
+<h1>Tag: {{ page.title }} 3</h1>
 	{{ content }}
 
-{% assign tag = site.tags[page.title] %}
-{% include series.liquid posts=tag %}
+{% assign tag_data = site.tags[page.title] %}
+{% include series.liquid posts=tag_data %}
