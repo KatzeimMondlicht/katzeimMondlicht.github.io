@@ -18,14 +18,10 @@ tags = [
     "誊写",
     "读书笔记"
 ]
-
-template = """
----
+template="""---
 layout: tag
 title: {tag}
----
-
-"""
+---"""
 
 # 指定保存文件的文件夹路径
 output_folder = "C:\\Users\\meow\\Documents\\katzeimMondlicht.github.io\\tag"
