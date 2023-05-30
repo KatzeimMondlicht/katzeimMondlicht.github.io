@@ -6,13 +6,13 @@ layout: default
 	哦 这是生成模式 页面的基础
 	{% endcomment %}
 
-<h1>Tag: {{ page.title }} 5</h1>
+<h1>标签 {{ page.title }} </h1>
 	{{ content }}
 
 	{% comment %}
 	展示原【标签.md】页面内容 可以写点简介？
 	{% endcomment %}
-	
+
 <br>
 {% assign tag = site.tags[page.title] %}
 {% include series.liquid posts=tag %}
