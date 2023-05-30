@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "誊写-Printthemall"
+title:  "Printthemall"
 category: "日记"
-tags: [日记,Feel_the_rain]
+tags: [日记,Feel_the_rain,誊写]
 ---
 
 网络确实使长尾理论的效果更明显了，不过我觉得，其实长尾理论在网络之前就存在。在网络之前，我们只不过采取了一些繁琐而滞后的方式来发展它。
