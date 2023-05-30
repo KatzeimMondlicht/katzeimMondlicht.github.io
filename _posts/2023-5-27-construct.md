@@ -4,7 +4,7 @@ title:  "搭建测试"
 category: "笔记"
 tags: [收集,更新,日记]
 ---
-<font color=#b5d5bc> 2023-5-31 03:53:31 </font>
+<font color="#b5d5bc"> 2023-5-31 03:53:31 </font>
 - ✅搭了标签页
 - ✅重建了目录页contents
 - ✅更新了一些文档标签和内容
