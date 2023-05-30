@@ -18,5 +18,5 @@ layout: default
 	</ul>
 </header>
 
-{% assign tag = site.tags[page.title] %}
-{% include series.liquid posts=tag %}
+{% assign tag_data = site.tags[page.title] %}
+{% include series.liquid posts=tag_data %}
