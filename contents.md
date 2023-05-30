@@ -7,7 +7,8 @@ title: Contents
   {% for post in site.posts %}
     <li>
     <a href="{{ post.url }}">{{ post.title }}</a>
-    <span class="tag">{{ post.tags | join: ', ' }}</span>
+    <red><span class="tag">{{ post.tags | join: ', ' }}</span></red>
+    <span class="meta">{{ post.date | date: "%Y-%m-%d" }}</span>
     </li>
   {% endfor %}
 </ol>
