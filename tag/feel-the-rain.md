@@ -1,6 +1,7 @@
 ---
 layout: tag
 title: "feel-the-rain"
+tags: "feel-the-rain"
 ---
 
 page.tag=page.title
