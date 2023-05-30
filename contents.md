@@ -1,8 +1,7 @@
 ---
 layout: default
-title: Blogs
+title: Contents
 ---
-<h1>Blogs</h1>
 
 <ol>
   {% for post in site.posts %}

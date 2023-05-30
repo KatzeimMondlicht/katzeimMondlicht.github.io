@@ -4,5 +4,5 @@
 - title: About
   href: /about #需要区分大小写
 
-- title: Blogs
-  href: /blogs #转接blogs.md文件
+- title: Contents
+  href: /contents #转接contents.md文件
