@@ -8,7 +8,7 @@ title: Contents
     <li>
     <b><span class="meta">{{ post.date | date: "%Y-%m-%d" }}</b>
     <a href="{{ post.url }}">{{ post.title }}</a>
-    <font color="#63E58A"><span class="tag">{{ post.tags | join: ', ' }}</span></red>
+    <font color="#63E58A"><span class="tag">{{ post.tags | join: ', ' }}</span>
     </font>
     </li>
   {% endfor %}
