@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "搭建测试"
-category: "笔记"
+category: "日记"
 date: 2023-05-31 16:48:03 +8
 tags: [收集,更新,日记]
 ---
