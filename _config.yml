@@ -7,3 +7,7 @@ description: （双手合十）
 paginate: 10
 paginate_path: /page/:num/
 permalink: /:title/
+
+url: "https://katzeimmondlicht.github.io" # the base hostname & protocol for your site
+plugins:
+  - jekyll-sitemap
