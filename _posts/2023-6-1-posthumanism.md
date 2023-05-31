@@ -21,4 +21,4 @@ date: 2023-06-01 00:00:45 +8
 
 [《爱，死亡与后人类》](https://book.douban.com/subject/34858181/) 吴冠军 著
 
-<image src="https://img2.doubanio.com/view/subject/l/public/s33533891.jpg" alt="《爱，死亡与后人类》书影" width="300">
+<image src="https://img2.doubanio.com/view/subject/l/public/s33533891.jpg" alt="《爱，死亡与后人类》书影" width=" ">
