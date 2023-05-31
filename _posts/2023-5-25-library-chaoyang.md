@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "朝阳区图书馆翻书记录"
-category: "日记"
+category: "笔记"
 tags: [日记,实习,流水账,照片,更新]
 ---
 
