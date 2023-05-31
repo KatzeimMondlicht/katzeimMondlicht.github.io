@@ -2,8 +2,12 @@
 layout: post
 title:  "搭建测试"
 category: "笔记"
+date: 2023-05-31 16:48:03 +8
 tags: [收集,更新,日记]
 ---
+<font color="#b5d5bc"> 2023-5-31 16:46:47 </font>
+- ✅研究了谷歌搜索收录，百度可能不行就不考虑了。
+
 <font color="#b5d5bc"> 2023-5-31 03:53:31 </font>
 - ✅搭了标签页
 - ✅重建了目录页contents
