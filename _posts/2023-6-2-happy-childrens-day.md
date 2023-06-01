@@ -11,5 +11,4 @@ date: 2023-06-01 13:30:00 +8
 
 
 # 如果不自信也可以读读尼采（不是）
-
 <image src="https://i.hd-r.cn/c1d0aeb6ec264eac16bc29969b81f202.jpg" alt="瞧，这个人" width=" ">
