@@ -16,6 +16,3 @@ title: About
 <br>实习二阳请假期间摸鱼作品
 2023.5.22
 <br>感谢不懈为我解答问题的ChatGPT
-
-<br>
-<a target="_blank" href="http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=HSorJCsrLy8qJF1sbDN_cnA" style="text-decoration:none;"><img src="http://rescdn.qqmail.com/zh_CN/htmledition/images/function/qm_open/ico_mailme_01.png"/></a>
