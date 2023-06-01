@@ -16,3 +16,8 @@ title: About
 <br>实习二阳请假期间摸鱼作品
 2023.5.22
 <br>感谢不懈为我解答问题的ChatGPT
+
+<br>
+一个简单的友情链接：
+
+[Lizhe's Blog](https://lizhening.github.io/)
