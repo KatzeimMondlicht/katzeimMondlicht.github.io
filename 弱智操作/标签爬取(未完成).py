@@ -1,4 +1,3 @@
-# ptthon 安装一定要add to path
 import requests
 from bs4 import BeautifulSoup
 
@@ -9,11 +8,6 @@ html_content = response.text
 
 # 使用BeautifulSoup解析网页内容
 soup = BeautifulSoup(html_content, 'html.parser')
-
-# 找到网页正文的相关元素或标签
-paragraphs = soup.find_all("p")
-for p in paragraphs:
-    print(p.text)
 
 # 打开文件，指定文件名和打开模式（写入模式）
 file = open("C:\Users\meow\Documents\katzeimMondlicht.github.io\弱智操作\此时标签.txt", "w", encoding='utf-8')
