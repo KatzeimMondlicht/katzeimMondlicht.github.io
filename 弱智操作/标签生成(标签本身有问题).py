@@ -1,8 +1,8 @@
 import os
 
 tags = [
-"摄影",
-"影像",
+    "摄影",
+    "照片",
 ]
 template="""---
 layout: tag
