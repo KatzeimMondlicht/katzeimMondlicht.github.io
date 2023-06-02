@@ -10,5 +10,5 @@ date: 2023-06-01 13:30:00 +8
 <image src="https://i.hd-r.cn/d4285267126b7b600aded1a9e935c2a0.jpg" alt="树与阳光" width=" ">
 <br>
 
-# 如果不自信也可以读读尼采_不是
+<h2> 如果不自信也可以读读尼采_不是
 <image src="https://i.hd-r.cn/c1d0aeb6ec264eac16bc29969b81f202.jpg" alt="瞧，这个人" width=" ">
