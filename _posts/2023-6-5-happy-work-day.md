@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "文献笔记"
+title:  "死亡报道与伦理"
 category: "笔记"
 tags: [研究,更新,笔记,死亡]
 time: 2023-06-08 12:36:28 +8
