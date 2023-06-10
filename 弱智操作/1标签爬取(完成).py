@@ -13,5 +13,5 @@ with open(file_path, "w", encoding='utf-8') as file:
     for p in soup.find_all("p"):
         file.write(p.text)
         file.write("\n")  # 写入换行符，每个 <p> 标签的文本占一行
-
+# 唯一缺点是也爬到了标题下的阐述和结尾的话。
 print("内容已保存到文件！")
