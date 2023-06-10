@@ -6,7 +6,7 @@ tags: [A6,高考,玄学,死亡,流水账,誊写]
 time: 2023-06-10 15:56:20 +8
 ---
 <p>
-<image src="https://i.hd-r.cn/c0af233ddf2127103d1e44ec085e95bf.jpg",alt="ccu with sunshines", title="6.10 blue sky",width=>
+<image src="https://i.hd-r.cn/c0af233ddf2127103d1e44ec085e95bf.jpg", alt="ccu with sunshines", title="6.10 blue sky",width=>
 <p>6.7 6.8 有人高考有人在等教务老师系统那边的GPA排名，后台系统崩了，但wj老师超级负责地及时地把文件传给了我，感恩（虽然还是晚了两天……）
 <p>6.7 6.8 高考愿妹妹一切顺利，超级喜欢妹妹，宝贝妹妹一定能把会写的全答对（保佑）
 <p>6.8 不能事事都搞玄学，不然和友的话题就只剩下玄学……对算感情有了新看法，就是看当事人图的是什么，是不会断开的关系、是可以捞到的财富、是颜控还是想获得关爱……
