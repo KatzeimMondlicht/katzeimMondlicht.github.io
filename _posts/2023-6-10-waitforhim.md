@@ -5,7 +5,6 @@ category: "周记"
 tags: [A6活页本,高考,玄学,死亡,流水账,誊写]
 time: 2023-06-10 15:56:20 +8
 ---
-2023.6.5-2023.6-11
 <p>
 <image src="https://i.hd-r.cn/c0af233ddf2127103d1e44ec085e95bf.jpg" alt="ccu with sunshines" title="6.10 blue sky" width=>
 <p>6.7 6.8 有人高考有人在等教务老师系统那边的GPA排名，后台系统崩了，但wj老师超级负责地及时地把文件传给了我，感恩（虽然还是晚了两天……）
