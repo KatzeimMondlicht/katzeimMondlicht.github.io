@@ -3,7 +3,6 @@ layout: post
 title:  "在贵社的实习体验"
 category: "笔记"
 tags: [实习,日记]
-time: 
 ---
 - 写稿零基础到精通
 - PS零基础到精通
