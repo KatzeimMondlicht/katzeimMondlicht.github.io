@@ -10,11 +10,13 @@ title: About
 <br>衣沾不足惜，但使愿无违。
 
 </font>
-<br>实习二阳请假期间摸鱼作品
+<br>实习二阳请假期间摸鱼摸出的<b>日记本</b>
 2023.5.22
 <br>感谢不懈为我解答问题的ChatGPT
 
-<br>
-一个简单的友情链接：
+<br>每篇文章评论区需要科学上网才能看到
 
-🔵 [Lizhe's Blog](https://lizhening.github.io/) `环境保护/应对气候变化咨询/温室气体减排`
+<br>
+另附一个简单的友情链接：
+
+- [Lizhe's Blog](https://lizhening.github.io/)

@@ -25,10 +25,6 @@ layout: default
 		gtag('config', 'G-HHP1GPRCRB');
 		</script>
 	
-	{% comment %}
-	下面插入了评论板块
-	{% endcomment %}
-
 	<div class="content">
 		{{ content }}
 		<footer>
@@ -45,6 +41,7 @@ layout: default
 			{% endif %}
 		</footer>
 	</div>
+
 	<footer>
 		{% if author.hash %}
 			<img class="gravatar" alt="" width="49" height="49"
