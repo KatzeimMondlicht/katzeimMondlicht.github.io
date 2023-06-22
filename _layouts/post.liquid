@@ -63,7 +63,30 @@ layout: default
 					{{ tag }}</a>{% unless forloop.last %},{% endunless %}
 			{% endfor %}
 		</div>
-		<div>
+
+		{% comment %}
+		disqus，下面是gitalk
+		{% endcomment %}
+		<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.css">
+
+		<div id="gitalk-container"></div>
+
+		<script src="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.min.js"></script>
+		<script>
+			var gitalk = new Gitalk({
+				clientID: 'cff4b26baff456de4e06', //Client ID
+				clientSecret: '1282a55b5431bfcedf4f51b66729e53276a92016', //Client Secret
+				repo: 'blogcomments',
+				owner: 'KatzeimMondlicht',
+				admin: ['KatzeimMondlicht'],
+				id: location.href,      // Ensure uniqueness and length less than 50
+				distractionFreeMode: false  // Facebook-like distraction free mode
+			});
+
+			gitalk.render('gitalk-container');
+		</script>
+
+				<div>
 			{% if page.comments %}
 			{% include disqus_comments.html %}
 			{% endif %}
@@ -87,28 +110,6 @@ layout: default
 			})();
 		</script>
 		<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-
-		{% comment %}
-		上面是disqus，下面是gitalk
-		{% endcomment %}
-		<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.css">
-
-		<div id="gitalk-container"></div>
-
-		<script src="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.min.js"></script>
-		<script>
-			var gitalk = new Gitalk({
-				clientID: 'cff4b26baff456de4e06', //Client ID
-				clientSecret: '1282a55b5431bfcedf4f51b66729e53276a92016', //Client Secret
-				repo: 'blogcomments',
-				owner: 'KatzeimMondlicht',
-				admin: ['KatzeimMondlicht'],
-				id: location.href,      // Ensure uniqueness and length less than 50
-				distractionFreeMode: false  // Facebook-like distraction free mode
-			});
-
-			gitalk.render('gitalk-container');
-		</script>
 
 	</footer>
 </article>
