@@ -10,6 +10,8 @@ date: 2023-06-23 02:49:22 +8
 - https://github.com/gitalk/gitalk#install
 - https://www.jianshu.com/p/4242bb065550
 - http://zyuandong.github.io/posts/jekyll_comment
+- ✅解决Error not Found问题。参考网页：
+- https://blog.csdn.net/m0_46916422/article/details/124065600 （主要就是仓库要公开）
 
 <font color="#b5d5bc"> 2023-5-31 16:46:47 </font>
 - ✅研究了谷歌搜索收录，百度可能不行就不考虑了。
