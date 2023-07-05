@@ -18,7 +18,6 @@ A6
 死亡
 音乐
 收集
-建站
 胡说八道
 拔草
 后人类
@@ -29,4 +28,8 @@ A6
 研究
 高考
 玄学
+传播
+图片
+建站
+尼采
 This blog is linked with @KatzeimMondlicht.
