@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "一列链接赋给一列标题成为超链接"
+title:  "一列链接赋给一列纯文字成为超链接"
 category: "笔记"
 tags: [笔记]
 ---
