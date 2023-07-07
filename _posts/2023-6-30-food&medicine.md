@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "食药新闻6.30"
+title:  "食药新闻6月30日"
 category: "笔记"
 tags: [笔记,不能白写]
 ---
