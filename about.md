@@ -15,6 +15,4 @@ title: About
 <br><b>“竹笋”</b>名字首先因为竹笋是一种好吃又长得很快可以在轻策庄采集（？）的植物。再之“逐损”也是“为道日损”，符合本人曳尾于涂的价值判断。
 
 <br>感谢不懈为我解答问题的ChatGPT
-<br>另附一个简单的友情链接：
-
-- [Lizhe's Blog](https://lizhening.github.io/)
+<br>另附一个简单的友情链接：[Lizhe's Blog](https://lizhening.github.io/) 
