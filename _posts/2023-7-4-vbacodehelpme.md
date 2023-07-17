@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Excel从单元格提取特定颜色的文本"
-category: "笔记"
-tags: [笔记]
+category: "资料"
+tags: [不能白写]
 ---
     Sub ExtractRedText()
         Dim rng As Range
