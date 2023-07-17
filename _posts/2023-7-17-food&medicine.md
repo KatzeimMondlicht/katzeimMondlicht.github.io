@@ -22,11 +22,13 @@ https://ishare.ifeng.com/c/s/v006iZObpz6grOnKZoS3TrNZ8DKC--AsTMf4WpmoYhFRCi9sPlu
 https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%9B%BD%E7%A6%8F%E9%97%A8%E5%BA%97%E5%9B%9E%E5%BA%94%E9%BA%BB%E8%BE%A3%E7%83%AB%E9%87%8C%E5%90%83%E5%87%BA%E8%9F%91%E8%9E%82%23
 炸鸡店回应被指店内爬满蟑螂：前员工恶意诽谤，已报警（微博）
 https://s.weibo.com/weibo?q=%23%E7%82%B8%E9%B8%A1%E5%BA%97%E5%9B%9E%E5%BA%94%E8%A2%AB%E6%8C%87%E5%BA%97%E5%86%85%E7%88%AC%E6%BB%A1%E8%9F%91%E8%9E%82%23
+
 【药品】
 代表建议允许产妇胎盘捐献给药企制成药品 湖南药监局：支持探索
 https://static.cdsb.com/micropub/Articles/202307/aefff20079e3ae8e3591366f060aad3a.html
 2023国家中药科学监管大会18日开幕
 http://www.cnpharm.com/c/2023-07-16/1023176.shtml
+
 【医疗】
 国家卫健委近日印发《关于做好2023年基本公共卫生服务工作的通知》
 https://finance.sina.com.cn/jjxw/2023-07-15/doc-imzaucyt7506418.shtml
