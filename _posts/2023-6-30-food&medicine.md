@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "食药新闻6月30日"
-category: "笔记"
-tags: [笔记,不能白写]
+category: "资料"
+tags: [不能白写]
 ---
 6.30食药资讯
 【食品】

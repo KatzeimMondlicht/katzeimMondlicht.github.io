@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "食药新闻7月14日"
-category: "笔记"
-tags: [笔记,不能白写]
+category: "资料"
+tags: [不能白写]
 ---
 7月14日食药新闻
 

@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "食药新闻7月10日"
-category: "笔记"
-tags: [笔记,不能白写]
+category: "资料"
+tags: [不能白写]
 time: 2023-07-10 09:37:09 +8
 ---
 7月10日食药新闻
