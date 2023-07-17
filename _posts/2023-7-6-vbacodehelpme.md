@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "一列链接赋给一列纯文字成为超链接"
-category: "资料"
-tags: [不能白写]
+category: "笔记"
+tags: [笔记]
 ---
 如果你想将T列单元格中的字符串作为超链接赋予S列，可以使用以下VBA代码来实现：
     
