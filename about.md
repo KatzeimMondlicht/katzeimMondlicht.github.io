@@ -3,6 +3,8 @@ layout: default
 title: About
 ---
 <h1>About</h1>
+
+🎍🎍🎍🎍🎍🎍🎍🎍🎍
 <font color="#63E58A">
 
 种豆南山下，草盛豆苗稀。
@@ -13,8 +15,6 @@ title: About
 
 衣沾不足惜，但使愿无违。
 </font>
-
-🎍🎍🎍🎍🎍🎍🎍🎍🎍
 
 实习二阳请假期间摸鱼摸出的<b>日记本</b>
 2023.5.22
