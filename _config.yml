@@ -1,8 +1,8 @@
 plugins:
   - jekyll-paginate
 
-title: 🎍竹笋🎍
-description: （双手合十）
+title: 竹笋
+description: 双手合十
 
 paginate: 10
 paginate_path: /page/:num/
