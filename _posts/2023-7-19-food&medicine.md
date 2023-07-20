@@ -9,8 +9,6 @@ tags: [不能白写]
 【食品】
 市监总局:米酵菌酸有食物中毒风险（百度热搜）
 https://www.baidu.com/s?wd=%E5%B8%82%E7%9B%91%E6%80%BB%E5%B1%80%EF%BC%9A%E7%B1%B3%E9%85%B5%E8%8F%8C%E9%85%B8%E6%9C%89%E9%A3%9F%E7%89%A9%E4%B8%AD%E6%AF%92%E9%A3%8E%E9%99%A9&sa=fyb_news&rsv_dl=fyb_news
-慈溪市糖念食品小作坊 #慈溪一个体户注销了还在生产食品# （微博）
-https://s.weibo.com/weibo?q=%23%E6%85%88%E6%BA%AA%E4%B8%80%E4%B8%AA%E4%BD%93%E6%88%B7%E6%B3%A8%E9%94%80%E4%BA%86%E8%BF%98%E5%9C%A8%E7%94%9F%E4%BA%A7%E9%A3%9F%E5%93%81%23
 烤肉店回应让员工用90度开水洗碗：没人欺负员工（微博）
 https://s.weibo.com/weibo?q=%23%E5%BA%97%E5%AE%B6%E5%9B%9E%E5%BA%94%E8%AE%A9%E5%91%98%E5%B7%A5%E7%94%A890%E5%BA%A6%E5%BC%80%E6%B0%B4%E6%B4%97%E7%A2%97%23
 方块咖啡回应“服务员衣着暴露”：系外来人员不听劝进店拍摄，已报警
