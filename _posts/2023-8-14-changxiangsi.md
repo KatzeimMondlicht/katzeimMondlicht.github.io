@@ -12,7 +12,7 @@ tags: [日记]
 
 心疼我的宝宝柳狗狗邶（哭）。
 
-
+![防风邶](https://pic.rmb.bdstatic.com/bjh/events/1685c0bfc572c0be86086d3fd4f448c14371.jpeg@h_1280)
 ## 存点笔记
 《长相思》桐华
 
