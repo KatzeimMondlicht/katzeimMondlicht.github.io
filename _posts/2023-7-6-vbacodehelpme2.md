@@ -4,6 +4,10 @@ title:  "一列链接赋给一列纯文字成为超链接"
 category: "笔记"
 tags: [笔记]
 ---
+如果数据量比较小的话
+
+其实直接复制-选择性粘贴+加 就可以了
+
     Sub AddHyperlinksFromText()
         Dim ws As Worksheet
         Dim rngSource As Range

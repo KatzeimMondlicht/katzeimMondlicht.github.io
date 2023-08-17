@@ -4,6 +4,8 @@ title:  "Excel从单元格提取特定颜色的文本"
 category: "资料"
 tags: [不能白写]
 ---
+感恩chatgpt 没有你我会很为难
+
     Sub ExtractRedText()
         Dim rng As Range
         Dim cell As Range
@@ -29,4 +31,3 @@ tags: [不能白写]
     End Sub
 
 
-感恩chatgpt 没有你我会很为难（从每个包含黑色字体和红色字体的格子里提取红色字体）
