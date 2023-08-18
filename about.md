@@ -20,4 +20,4 @@ title: About
 
 🫡🫡🫡
 
-<iframe src="https://weibo.com/5652087391"></iframe>
+<iframe src="http://weibo.com/5652087391"></iframe>
