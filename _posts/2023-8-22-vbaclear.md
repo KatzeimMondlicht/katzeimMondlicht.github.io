@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  VBA代码每3行清除后2行
+title:  VBA代码每3行清除后2行/删除单元格前3位
 category: "笔记"
 tags: [笔记]
 ---
@@ -88,4 +88,29 @@ End Sub
             ws.Rows(i).Delete ' 删除空行
         End If
     Next i
+End Sub
+
+删除单元格前3位
+
+    Sub DeleteFirstThreeCharacters()
+    Dim ws As Worksheet
+    Dim lastRow As Long
+    Dim rng As Range
+    Dim cell As Range
+    
+    ' 设置工作表
+    Set ws = ThisWorkbook.Sheets("Sheet1") ' 将 "Sheet1" 替换为你的工作表名称
+    
+    ' 找到最后一行
+    lastRow = ws.Cells(ws.Rows.Count, "A").End(xlUp).Row
+    
+    ' 设置要处理的范围（这里假设你要处理的是 A 列）
+    Set rng = ws.Range("A1:A" & lastRow)
+    
+    ' 循环处理每个单元格
+    For Each cell In rng
+        If Len(cell.Value) > 3 Then
+            cell.Value = Mid(cell.Value, 4) ' 删除前3个字符
+        End If
+    Next cell
 End Sub
