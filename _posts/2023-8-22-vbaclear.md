@@ -114,3 +114,5 @@ End Sub
         End If
     Next cell
 End Sub
+
+另外，七夕这天试着封装了一个Python代码，很开心。
