@@ -1,0 +1,183 @@
+{
+  "main": {
+    "id": "a0e015d0bc768fd2",
+    "type": "split",
+    "children": [
+      {
+        "id": "74715e926ac0cf36",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6d6bd83783b4cd6d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2023-10-27-默哀.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8f252d3771b102b7",
+    "type": "split",
+    "children": [
+      {
+        "id": "b0c96e331150122f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fbfc93fac542d145",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2ae4d7f2debe01c7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9708a29b1ea2cc74",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2f3904767f8ee8a7",
+    "type": "split",
+    "children": [
+      {
+        "id": "fbf692152e429910",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7c20ce0c8dda06d9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_posts/2023-10-27-默哀.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d8212d0052847d26",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "_posts/2023-10-27-默哀.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f95e3e9c8b1bb081",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "19122d9ef0f6dee5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "_posts/2023-10-27-默哀.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "6d6bd83783b4cd6d",
+  "lastOpenFiles": [
+    "_posts/2024-5-2-假期.md",
+    "_posts/2023-10-27-默哀.md",
+    "未命名.md",
+    "_posts/2023-10-8-香港行.md",
+    "asset/房间.png",
+    "asset/yiheyuan.png",
+    "asset/香港金鱼街.JPG",
+    "asset/香港大学.JPG",
+    "asset/领结猫学习.jpg",
+    "asset/理教夕阳.jpeg",
+    "asset/今日吐槽.png",
+    "drafts/2019-03-24-这周连翘开得更烈了.md",
+    "drafts/2023-9-12-彗星.md",
+    "drafts/2019-5-11-Printthemall.md",
+    "_posts/2023-8-20-qiyu.md",
+    "_posts/2023-8-28-无心四周.md",
+    "_posts/2023-8-30-中元与猫.md",
+    "_posts/2023-9-21-封建迷信.md",
+    "_posts/2023-8-12-chushihua522.md",
+    "_posts/2023-8-11-jiaozuoye.md",
+    "_posts/2023-8-12-zhoumo.md",
+    "_posts/2023-8-14-changxiangsi.md",
+    "_posts/2023-8-17-midsearch.md",
+    "_posts/2023-8-17-zhuaqu.md",
+    "_posts/2023-8-17-zidiancankao.md",
+    "_posts/2023-8-18-allrightsreserved.md",
+    "_posts/2023-8-22-vbaclear.md",
+    "_posts/2021-8-19-871路的车窗.md",
+    "_posts/2021-8-8-天色向晚.md",
+    "_posts/2019-3-31-中轴.md",
+    "_posts/2019-3-15-晒着.md"
+  ]
+}
