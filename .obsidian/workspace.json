@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2024-5-28-活着.md",
+                "file": "_posts/2024-6-2-yunnan.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2024-5-28-活着.md",
+                "file": "_posts/2024-6-2-yunnan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2024-5-28-活着.md",
+                "file": "_posts/2024-6-2-yunnan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2024-5-28-活着.md"
+                "file": "_posts/2024-6-2-yunnan.md"
               }
             }
           }
@@ -148,9 +148,9 @@
   },
   "active": "6d6bd83783b4cd6d",
   "lastOpenFiles": [
-    "_posts/2024-6-2-儿童节.md",
-    "_posts/2024-5-28-活着.md",
     "_posts/2024-5-2-假期.md",
+    "_posts/2024-6-2-yunnan.md",
+    "_posts/2024-5-28-活着.md",
     "drafts/2023-5-22-模板.md",
     "asset/玉龙雪山.jpg",
     "asset/yiheyuan.png",
