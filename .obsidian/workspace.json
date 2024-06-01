@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2024-5-28-活着.md",
+                "file": "_posts/2024-6-2-儿童节.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2024-5-28-活着.md",
+                "file": "_posts/2024-6-2-儿童节.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2024-5-28-活着.md",
+                "file": "_posts/2024-6-2-儿童节.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2024-5-28-活着.md"
+                "file": "_posts/2024-6-2-儿童节.md"
               }
             }
           }
@@ -146,11 +146,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "fbfc93fac542d145",
+  "active": "6d6bd83783b4cd6d",
   "lastOpenFiles": [
-    "drafts/2023-5-22-模板.md",
+    "_posts/2024-5-28-活着.md",
     "_posts/2024-6-2-儿童节.md",
     "_posts/2024-5-2-假期.md",
+    "drafts/2023-5-22-模板.md",
     "asset/玉龙雪山.jpg",
     "asset/yiheyuan.png",
     "_posts/2023-10-27-默哀.md",
@@ -180,7 +181,6 @@
     "_posts/2023-8-22-vbaclear.md",
     "_posts/2021-8-19-871路的车窗.md",
     "_posts/2021-8-8-天色向晚.md",
-    "_posts/2019-3-31-中轴.md",
-    "_posts/2019-3-15-晒着.md"
+    "_posts/2019-3-31-中轴.md"
   ]
 }
