@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2024-6-3-即将结束的剧场.md",
+                "file": "弱智操作/tags.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2024-6-3-即将结束的剧场.md",
+                "file": "弱智操作/tags.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2024-6-3-即将结束的剧场.md",
+                "file": "弱智操作/tags.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2024-6-3-即将结束的剧场.md"
+                "file": "弱智操作/tags.md"
               }
             }
           }
@@ -147,8 +147,8 @@
   },
   "active": "6d6bd83783b4cd6d",
   "lastOpenFiles": [
-    "_posts/2024-5-28-活着.md",
     "_posts/2024-6-3-即将结束的剧场.md",
+    "_posts/2024-5-28-活着.md",
     "asset/玉龙雪山.jpg",
     "_posts/2024-6-2-云南.md",
     "未命名.md",
