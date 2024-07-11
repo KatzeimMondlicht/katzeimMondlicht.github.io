@@ -4,18 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "74715e926ac0cf36",
+        "id": "1efa9025464b6e14",
         "type": "tabs",
         "children": [
           {
-            "id": "6d6bd83783b4cd6d",
+            "id": "545f0f17e60cb490",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "弱智操作/tags.md",
-                "mode": "source",
-                "source": false
+                "file": "asset/叙利亚刺猬.jpg"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "弱智操作/tags.md",
+                "file": "asset/叙利亚刺猬.jpg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "弱智操作/tags.md",
+                "file": "asset/叙利亚刺猬.jpg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "弱智操作/tags.md"
+                "file": "asset/叙利亚刺猬.jpg"
               }
             }
           }
@@ -145,14 +143,19 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "6d6bd83783b4cd6d",
+  "active": "fbfc93fac542d145",
   "lastOpenFiles": [
-    "_posts/2024-6-3-即将结束的剧场.md",
+    "_posts/2023-7-24-zhouji.md",
+    "未命名.md",
+    "未命名 1.md",
+    "未命名 2.md",
     "_posts/2024-5-28-活着.md",
+    "asset/叙利亚刺猬.jpg",
+    "drafts/模板.md",
+    "弱智操作/tags.md",
+    "_posts/2024-6-3-即将结束的剧场.md",
     "asset/玉龙雪山.jpg",
     "_posts/2024-6-2-云南.md",
-    "未命名.md",
-    "drafts/模板.md",
     "_posts/2023-5-24-石榴庄.md",
     "_posts/2023-5-22-辛勤劳动的一天.md",
     "_posts/2023-5-22-下雨.md",
@@ -171,10 +174,6 @@
     "_posts/2023-2-9-交作业.md",
     "_posts/2021-9-20-接近满月的月色.md",
     "_posts/2023-8-14-changxiangsi.md",
-    "_posts/2023-8-17-zidiancankao.md",
-    "_posts/2023-8-18-allrightsreserved.md",
-    "_posts/2023-8-20-qiyu.md",
-    "_posts/2023-8-28-无心四周.md",
     "asset/中山公园-郁金香.JPG",
     "asset/理教夕阳.jpeg",
     "asset/房间.png",
