@@ -11,8 +11,12 @@
             "id": "89d57f83528ac2f3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2024-6-13-博物馆.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_posts/2024-6-13-博物馆.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "_posts/2024-6-13-博物馆.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "_posts/2024-6-13-博物馆.md"
+              }
             }
           }
         ]
@@ -139,5 +147,24 @@
     }
   },
   "active": "89d57f83528ac2f3",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "asset/邯郸校区.jpg",
+    "_posts/2024-7-29-.md",
+    "_posts/2024-6-13-博物馆.md",
+    "_posts/2024-5-28-活着.md",
+    "drafts/模板.md",
+    "drafts/2024-6-3-即将结束的剧场.md",
+    "asset/香港金鱼街.JPG",
+    "asset/香港大学.JPG",
+    "asset/颐和园画中游.png",
+    "asset/玉龙雪山.jpg",
+    "asset/叙利亚刺猬.jpg",
+    "asset/中山公园-郁金香.JPG",
+    "_posts/2024-5-2-假期.md",
+    "_posts/2023-9-21-封建迷信.md",
+    "_posts/2023-8-30-中元与猫.md",
+    "_posts/2023-6-17-dulunwen1.md",
+    "_posts/2023-10-8-香港行.md",
+    "_posts/2023-10-27-默哀.md"
+  ]
 }
