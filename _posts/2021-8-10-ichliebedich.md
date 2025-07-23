@@ -2,7 +2,6 @@
 layout: post
 title:  Ich liebe dich
 category: "日记"
-tags: [日记,李娥]
 ---
 `2021-8-10`
 

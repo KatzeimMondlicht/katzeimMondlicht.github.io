@@ -2,7 +2,6 @@
 layout: post
 title: 开封记忆
 category: "笔记"
-tags: [开封]
 ---
 ◆ 开封记忆 关爱和
 

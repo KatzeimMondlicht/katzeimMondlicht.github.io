@@ -2,7 +2,6 @@
 layout: post
 title:  Excel中MID函数SEARCH函数使用方法
 category: "笔记"
-tags: [笔记]
 ---
 ## 基础：MID(text, start_num, num_chars)
 

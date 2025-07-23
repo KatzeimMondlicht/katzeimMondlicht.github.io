@@ -2,7 +2,6 @@
 layout: post
 title: 美学摘抄
 category: "笔记"
-tags: [美学]
 ---
 《美学的基本理论与北大的美学传统》
 叶朗

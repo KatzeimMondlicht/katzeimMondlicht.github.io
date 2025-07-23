@@ -2,7 +2,6 @@
 layout: post
 title:  "银幕上的非人"
 category: 笔记
-tags: [笔记]
 date: 2023-06-01 00:00:45 +8
 ---
 - 拉康；镜像阶段-误认。

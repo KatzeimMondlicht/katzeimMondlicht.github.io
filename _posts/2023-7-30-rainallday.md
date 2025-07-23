@@ -2,7 +2,6 @@
 layout: post
 title:  骤雨初歇
 category: "日记"
-tags: [日记]
 ---
 7-30 13:48
 来自 iPhone客户端

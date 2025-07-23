@@ -2,7 +2,6 @@
 layout: post
 title:  "爱，死亡，王佳芝"
 category: 笔记
-tags: [读书笔记,电影,死亡]
 date: 2023-05-30 22:30:30 +8
 ---
 

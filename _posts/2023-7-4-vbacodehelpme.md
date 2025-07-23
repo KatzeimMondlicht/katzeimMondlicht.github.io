@@ -2,7 +2,6 @@
 layout: post
 title:  "Excel从单元格提取特定颜色的文本"
 category: "资料"
-tags: [笔记]
 ---
 感恩chatgpt 没有你我会很为难
 

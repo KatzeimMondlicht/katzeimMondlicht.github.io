@@ -2,7 +2,6 @@
 layout: post
 title:  "庄子浅说"
 category: "笔记"
-tags: [笔记]
 ---
 《庄子浅说》
 陈鼓应

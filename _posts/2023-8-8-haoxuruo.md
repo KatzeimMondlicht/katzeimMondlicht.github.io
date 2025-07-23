@@ -2,7 +2,6 @@
 layout: post
 title:  立秋
 category: "日记"
-tags: [日记]
 ---
 ![huazhongyou](颐和园画中游.png)
 没有价值的碎碎念一则

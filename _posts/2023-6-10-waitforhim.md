@@ -2,7 +2,6 @@
 layout: post
 title:  "5月末6月初纵览"
 category: "周记"
-tags: [周记]
 time: 2023-06-10 15:56:20 +8
 ---
 ![cuc with sunshines](https://i.hd-r.cn/c0af233ddf2127103d1e44ec085e95bf.jpg)

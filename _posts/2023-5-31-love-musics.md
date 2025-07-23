@@ -2,7 +2,6 @@
 layout: post
 title:  "喜欢的音乐"
 category: 笔记
-tags: [音乐,收集,更新]
 ---
 
 - 红弦俱乐部 OST 为死神调酒 在无可避免的命运里坠落

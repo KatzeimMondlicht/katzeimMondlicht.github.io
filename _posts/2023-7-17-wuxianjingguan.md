@@ -2,7 +2,6 @@
 layout: post
 title:  无限景观
 category: "日记"
-tags: [日记]
 ---
 图片 堆积
 

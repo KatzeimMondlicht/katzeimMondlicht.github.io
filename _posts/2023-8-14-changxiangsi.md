@@ -2,7 +2,6 @@
 layout: post
 title:  相柳
 category: "笔记"
-tags: [笔记]
 ---
 困得发疯。为相柳哭到凌晨4点半。
 
