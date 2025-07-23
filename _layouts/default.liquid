@@ -79,14 +79,6 @@
 			</ul>
 		</section>
 		
-		<section class="tagcloud">
-			<h2>Tags</h2>
-			{% assign tags = site.tags | sort %}
-			{% for tag in tags %}
-				<a href="{{ site.baseurl }}/tag/{{ tag[0] | slugify | uri_escape }}">{{ tag[0] }}</a>
-			{% endfor %}
-		</section>
-		
 		<section>
 			<h2>Categories</h2>
 			<ul>
