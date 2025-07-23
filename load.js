@@ -1,22 +1,28 @@
-document.querySelector("main").appendChild(document.getElementById("loader").content);
+// load.js
+const main   = document.querySelector('main');
+const tpl    = document.getElementById('loader');
+main.appendChild(tpl.content);
 
-const button = document.getElementById("load");
+const button = main.querySelector('#load');
 const client = new XMLHttpRequest();
-let count = 2;
+let   next   = 2;                       // 下一页页码
+const total  = Number(button.dataset.total);
 
-button.addEventListener("click", () =>
-{ 
-	client.open("GET",  "/page/${count}/"); 
-	client.responseType = "document";
-	client.send();
+button.addEventListener('click', () => {
+  if (client.readyState !== 0) return;  // 防止并发
+  client.open('GET', `/page/${next}/`);
+  client.responseType = 'document';
+  client.send();
 });
 
-export default pages => client.addEventListener("load", function()
-{
-	if (((this.status|0) / 100)|0 == 2)
-	{
-		button.hidden = ++count > pages;
-		button.before(...this.response.querySelectorAll("article.post"));
-		history.pushState(null, this.response.title, this.responseURL);
-	}
+client.addEventListener('load', () => {
+  if (client.status === 200) {
+    const doc = client.response;
+    main.append(...doc.querySelectorAll('article.post'));
+    history.pushState(null, doc.title, client.responseURL);
+
+    if (++next > total) button.hidden = true;
+  } else {
+    console.error('Load failed:', client.status);
+  }
 });
