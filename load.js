@@ -5,8 +5,8 @@ const client = new XMLHttpRequest();
 let count = 2;
 
 button.addEventListener("click", () =>
-{
-	client.open("GET", "page/" + count + "/");
+{ 
+	client.open("GET",  "/page/${count}/"); 
 	client.responseType = "document";
 	client.send();
 });
