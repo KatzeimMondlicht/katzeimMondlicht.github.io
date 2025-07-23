@@ -1,6 +1,3 @@
-plugins:
-  - jekyll-paginate
-
 title: 竹笋
 description: 双手合十
 
@@ -8,7 +5,8 @@ paginate: 10
 paginate_path: /page/:num/
 permalink: /:title/
 
-url: "https://katzeimmondlicht.github.io" # the base hostname & protocol for your site
+url: "https://katzeimmondlicht.github.io"  # 如果需要自定义域名，请替换为自定义域名
 
 plugins:
+  - jekyll-paginate
   - jekyll-sitemap
