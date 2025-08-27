@@ -160,6 +160,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:创建新数据库": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -170,8 +171,14 @@
   },
   "active": "5cfbb7889f961101",
   "lastOpenFiles": [
-    "_posts/2025-7-23-无标题.md",
+    "_posts/2025-8-27-fayanguancha.md",
     "_posts/2025-8-20-Japan.md",
+    "_posts/2023-8-12-zhoumo.md",
+    "_posts/2023-8-18-allrightsreserved.md",
+    "2025-8-27-fayanguancha.md",
+    "_posts/2023-8-22-vbaclear.md",
+    "_posts/2023-8-20-qiyu.md",
+    "_posts/2025-7-23-无标题.md",
     "asset/CATS8109 (小).jpg",
     "CATS8375 (小).jpg",
     "CATS8375.jpg",
